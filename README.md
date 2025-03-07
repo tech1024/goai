@@ -2,7 +2,7 @@ Go AI
 ==
 
 [![build](https://github.com/tech1024/goai/actions/workflows/build.yml/badge.svg)](https://github.com/tech1024/goai/actions/workflows/build.yml)
-[![Coverage Status](https://coveralls.io/repos/github.com/tech1024/goai/badge.svg?branch=main)](https://coveralls.io/github.com/tech1024/goai?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/tech1024/goai/badge.svg?branch=main)](https://coveralls.io/github/tech1024/goai?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/tech1024/goai)](https://goreportcard.com/report/github.com/tech1024/goai)
 [![Godoc](https://godoc.org/github.com/tech1024/goai?status.svg)](https://pkg.go.dev/github.com/tech1024/goai)
 [![Release](https://img.shields.io/github/release/tech1024/goai.svg)](https://github.com/tech1024/goai/releases/latest)
